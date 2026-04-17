@@ -17,6 +17,7 @@ User-Centric Interface: Developed with Streamlit to provide a seamless experienc
 🛠️ Tech Stack
 Deep Learning: Python, TensorFlow/Keras.
 link to my code in google collab to train my model :https://colab.research.google.com/drive/1DeIXaev0fct-mFqacrv4UtEso-_yDTJc?usp=sharing
+Scans Data for training and testing : https://drive.google.com/drive/folders/1rhS0FD8ZnddOZGtS0ZT6VJveo80t1fPK
 Web Framework: Streamlit.
 
 Data Processing: NumPy, OpenCV.
