@@ -27,6 +27,9 @@ Web Framework: Streamlit.
 Data Processing: NumPy, OpenCV.
 
 Model Architecture: MobileNetV2 (Pre-trained on ImageNet).
+
+My web page:
+
 <img width="1888" height="782" alt="image" src="https://github.com/user-attachments/assets/f43f748d-8da2-4c0c-bf39-e10e953b4058" />
 
 My chatbot:
