@@ -16,10 +16,20 @@ User-Centric Interface: Developed with Streamlit to provide a seamless experienc
 
 🛠️ Tech Stack
 Deep Learning: Python, TensorFlow/Keras.
-link to my code in google collab to train my model :https://colab.research.google.com/drive/1DeIXaev0fct-mFqacrv4UtEso-_yDTJc?usp=sharing
-Scans Data for training and testing : https://drive.google.com/drive/folders/1rhS0FD8ZnddOZGtS0ZT6VJveo80t1fPK
+link to my code in google collab to train my model :
+https://colab.research.google.com/drive/1DeIXaev0fct-mFqacrv4UtEso-_yDTJc?usp=sharing
+
+Scans Data for training and testing :
+https://drive.google.com/drive/folders/1rhS0FD8ZnddOZGtS0ZT6VJveo80t1fPK
+
 Web Framework: Streamlit.
 
 Data Processing: NumPy, OpenCV.
 
 Model Architecture: MobileNetV2 (Pre-trained on ImageNet).
+<img width="1888" height="782" alt="image" src="https://github.com/user-attachments/assets/f43f748d-8da2-4c0c-bf39-e10e953b4058" />
+
+My chatbot:
+
+<img width="1406" height="683" alt="image" src="https://github.com/user-attachments/assets/b63b1ff9-72c9-47bd-8bd2-574f4bd50812" />
+
